@@ -2,3 +2,6 @@
 *.pem
 *.key
 .aws/
+.terraform/
+*.tfstate
+*.tfstate.*
