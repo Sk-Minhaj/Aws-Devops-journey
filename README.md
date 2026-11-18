@@ -11,4 +11,4 @@ My 30-day AWS and DevOps learning log (Crecita internship).
 - Day 7: Review and practice of Git, EC2 and Nginx
 - Day 8: Terraform installed, init, fmt, validate, plan and apply
 - Day 9: Terraform EC2 with security group, variables, Nginx user_data and public IP output
-- Day 10: Terraform remote backend with S3 bucket and DynamoDB state locking
+- Day 10: Terraform remote backend with S3 bucket and DynamoDB state locking- Day 11: Ansible installed, inventory and playbook to configure Nginx on EC2
